@@ -51,19 +51,13 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 5150,
+      "cost": 1500,
       "services": [
         {
-          "name": "Alou",
-          "cost": "5000",
-          "description": "alouuuuu",
-          "id": "b0094b2b-d329-42f3-a248-bf0522f4ad64"
-        },
-        {
-          "name": "Dev Jr",
-          "cost": "150",
-          "description": "Criar um componente de botão",
-          "id": "bbe036bd-3147-4c60-986e-a9fc50fc3e76"
+          "name": "Desenvolvedor Full-Stack Júnior",
+          "cost": "1500",
+          "description": "Criar uma página com formulário",
+          "id": "ae8ae009-ff62-494f-9bc0-d0f853bf1758"
         }
       ],
       "id": 5

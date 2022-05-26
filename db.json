@@ -39,10 +39,21 @@
         "name": "Planejamento"
       },
       "name": "Teste 4",
-      "budget": "20000",
+      "budget": "40000",
       "cost": 0,
       "services": [],
       "id": 4
+    },
+    {
+      "name": "testando durante a aula",
+      "budget": "1",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
     }
   ],
   "categories": [

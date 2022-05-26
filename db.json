@@ -51,8 +51,21 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 5150,
+      "services": [
+        {
+          "name": "Alou",
+          "cost": "5000",
+          "description": "alouuuuu",
+          "id": "b0094b2b-d329-42f3-a248-bf0522f4ad64"
+        },
+        {
+          "name": "Dev Jr",
+          "cost": "150",
+          "description": "Criar um componente de botão",
+          "id": "bbe036bd-3147-4c60-986e-a9fc50fc3e76"
+        }
+      ],
       "id": 5
     }
   ],

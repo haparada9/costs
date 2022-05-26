@@ -7,12 +7,16 @@ import styles from '../project/ProjectForm.module.css'
 
 function ServiceForm ({ handleSubmit, btnText, projectData }) {
 
-    function submit() {
-
+    const [service, serService] = useState({})
+    
+    function submit(e) {
+        e.preventDefault()
+        projectData.services.push(service)
+        handleSubmit(projectData)
     }
 
     function handleChange(e) {
-
+        serService({ ...service, [e.target.name]: e.target.value})
     }
 
     return (

@@ -46,7 +46,7 @@
     },
     {
       "name": "testando durante a aula",
-      "budget": "1",
+      "budget": "10000",
       "category": {
         "id": "3",
         "name": "Design"

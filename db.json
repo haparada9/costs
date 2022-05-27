@@ -51,13 +51,13 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 1500,
+      "cost": 5000,
       "services": [
         {
-          "name": "Desenvolvedor Full-Stack Júnior",
-          "cost": "1500",
-          "description": "Criar uma página com formulário",
-          "id": "ae8ae009-ff62-494f-9bc0-d0f853bf1758"
+          "name": "Desenvolvedor Full Stack Senior",
+          "cost": "5000",
+          "description": "Projeto",
+          "id": "a3bef4e6-3329-4808-b5ef-e2cf1f11f82a"
         }
       ],
       "id": 5
